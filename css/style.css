@@ -1,0 +1,12 @@
+body {
+  background-color: #000055;
+}
+
+h1 {
+  font-family:"Lobster";
+  color:#932200;
+  font-size:200px;
+  text-align:center;
+  text-shadow: 5px 5px 7px #CCCC00;
+  padding: 100px 0;
+}
